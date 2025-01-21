@@ -1,0 +1,17 @@
+../Core/Src/MAX31865.c:21:6:writeRegister8	1
+../Core/Src/MAX31865.c:36:6:readRegisterN	1
+../Core/Src/MAX31865.c:50:9:readRegister8	1
+../Core/Src/MAX31865.c:61:10:readRegister16	1
+../Core/Src/MAX31865.c:77:10:readRegister24	1
+../Core/Src/MAX31865.c:93:6:setWires	2
+../Core/Src/MAX31865.c:106:6:enableBias	2
+../Core/Src/MAX31865.c:120:6:autoConvert	2
+../Core/Src/MAX31865.c:134:6:enable50Hz	2
+../Core/Src/MAX31865.c:149:6:setThresholds	1
+../Core/Src/MAX31865.c:156:6:setTemperatureThresholds	1
+../Core/Src/MAX31865.c:180:6:begin	2
+../Core/Src/MAX31865.c:200:10:readRTD	1
+../Core/Src/MAX31865.c:224:7:temperature	1
+../Core/Src/MAX31865.c:235:7:calculateTemperature	2
+../Core/Src/MAX31865.c:276:9:readFault	6
+../Core/Src/MAX31865.c:302:6:clearFault	1
